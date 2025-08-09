@@ -8,7 +8,7 @@ This project analyzes a dataset containing daily signals and SPY closing prices 
 
 ## Dataset
 
-- **File**: `SignalPreiceDataSet.csv`
+- **File**: `SignalPriceDataSet.csv`
 - **Period**: January 2012 - August 2014 (667 trading days)
 - **Features**:
   - `Date`: Trading date
